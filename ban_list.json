@@ -1,5 +1,5 @@
 {
-    "stop_entry": true,
+    "stop_entry": false,
     "ban_list": [
         "JELLYJELLYUSDT",
         "SWELLUSDT",
