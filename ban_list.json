@@ -46,6 +46,7 @@
         "BROCCOLIUSDT",
         "HIPPOUSDT",
         "ALPHAUSDT",
-        "SIGNUSDT"
+        "SIGNUSDT",
+        "ORDERUSDT"
     ]
 }
