@@ -4,12 +4,9 @@
         "JELLYJELLYUSDT",
         "SWELLUSDT",
         "DUCKUSDT",
-        "JAILSTOOLUSDT",
-        "NSUSDT",
         "BMTUSDT",
         "MUBARAKUSDT",
         "MEMEFIUSDT",
-        "LUCEUSDT",
         "HAEDALUSDT",
         "MAJORUSDT",
         "DEGENUSDT",
@@ -48,6 +45,7 @@
         "ALPHAUSDT",
         "SIGNUSDT",
         "ORDERUSDT",
-        "TWTUSDT"
+        "TWTUSDT",
+        "SFPUSDT"
     ]
 }
