@@ -61,6 +61,8 @@
         "NTRNUSDT",
         "COAIUSDT",
         "ALLOUSDT",
-        "DODOUSDT"
+        "DODOUSDT",
+        "OBTUSDT",
+        "CROSSUSDT"
     ]
 }
