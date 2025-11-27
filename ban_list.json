@@ -64,6 +64,8 @@
         "DODOUSDT",
         "OBTUSDT",
         "CROSSUSDT",
-        "BLESSUSDT"
+        "BLESSUSDT",
+        "LABUSDT",
+        "PIGGYUSDT"
     ]
 }
