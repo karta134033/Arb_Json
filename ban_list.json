@@ -1,5 +1,7 @@
 {
     "stop_entry": false,
+    "long_ban_list": [],
+    "short_ban_list": [],
     "ban_list": [
         "10000000AIDOGEUSDT",
         "4USDT",
