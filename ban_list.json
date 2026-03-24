@@ -1,6 +1,9 @@
 {
     "stop_entry": false,
-    "long_ban_list": [],
+    "long_ban_list": [
+        "LIGHTUSDT",
+        "RIVERUSDT"
+    ],
     "short_ban_list": [],
     "ban_list": [
         "10000000AIDOGEUSDT",
