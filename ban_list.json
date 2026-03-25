@@ -5,7 +5,8 @@
         "LIGHTUSDT",
         "NAORISUSDT",
         "RIVERUSDT",
-        "RDNTUSDT"
+        "RDNTUSDT",
+        "SIRENUSDT"
     ],
     "short_ban_list": [],
     "ban_list": [
