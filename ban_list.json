@@ -8,7 +8,8 @@
         "NAORISUSDT",
         "RIVERUSDT",
         "RDNTUSDT",
-        "SIRENUSDT"
+        "SIRENUSDT",
+        "UAIUSDT"
     ],
     "short_ban_list": [],
     "ban_list": [
@@ -16,9 +17,9 @@
         "4USDT",
         "ALCHUSDT",
         "ARCUSDT",
+        "ARIAUSDT",
         "BANUSDT",
         "BANANAS31USDT",
-        "BASUSDT",
         "BRUSDT",
         "BLESSUSDT",
         "BROCCOLI714USDT",
@@ -27,7 +28,6 @@
         "CROSSUSDT",
         "DEXEUSDT",
         "DUCKUSDT",
-        "ESPORTSUSDT",
         "GUNUSDT",
         "HIPPOUSDT",
         "JCTUSDT",
@@ -36,8 +36,7 @@
         "MMTUSDT",
         "NAORISUSDT",
         "NTRNUSDT",
-        "PIPPINUSDT",
-        "QUSDT",
+        "ONTUSDT",
         "SIRENUSDT",
         "SWARMSUSDT",
         "SWELLUSDT",
