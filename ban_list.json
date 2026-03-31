@@ -2,6 +2,7 @@
     "stop_entry": false,
     "long_ban_list": [
         "AIAUSDT",
+        "BANUSDT",
         "BRUSDT",
         "LIGHTUSDT",
         "MEMEUSDT",
