@@ -2,6 +2,7 @@
     "stop_entry": false,
     "long_ban_list": [
         "AIAUSDT",
+        "ARIAUSDT",
         "BANUSDT",
         "BANKUSDT",
         "BRUSDT",
@@ -21,6 +22,7 @@
         "UAIUSDT"
     ],
     "short_ban_list": [
+        "RAVEUSDT",
         "STOUSDT"
     ],
     "ban_list": [
