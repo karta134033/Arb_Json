@@ -24,6 +24,8 @@
         "UAIUSDT"
     ],
     "short_ban_list": [
+        "BASUSDT",
+        "BASEDUSDT",
         "RAVEUSDT",
         "STOUSDT"
     ],
