@@ -29,7 +29,8 @@
         "MOVRUSDT",
         "ORDIUSDT",
         "RAVEUSDT",
-        "STOUSDT"
+        "STOUSDT",
+        "TRUUSDT"
     ],
     "ban_list": [
         "10000000AIDOGEUSDT",
