@@ -17,7 +17,6 @@
         "LYNUSDT",
         "MEMEUSDT",
         "MUSDT",
-        "NAORISUSDT",
         "NOMUSDT",
         "PLAYUSDT",
         "PLAYSOUTUSDT",
@@ -31,7 +30,6 @@
     "short_ban_list": [
         "BASUSDT",
         "BASEDUSDT",
-        "BUSDT",
         "MOVRUSDT",
         "ORDIUSDT",
         "RAVEUSDT",
@@ -44,6 +42,7 @@
         "AIOTUSDT",
         "ALCHUSDT",
         "ARCUSDT",
+        "BUSDT",
         "BANUSDT",
         "BANANAS31USDT",
         "BLESSUSDT",
