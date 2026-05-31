@@ -1,7 +1,6 @@
 {
     "stop_entry": false,
     "long_ban_list": [
-        "AIAUSDT",
         "ARIAUSDT",
         "BANUSDT",
         "BANKUSDT",
@@ -42,6 +41,7 @@
     ],
     "ban_list": [
         "4USDT",
+        "AIAUSDT",
         "AIOTUSDT",
         "ALCHUSDT",
         "ARCUSDT",
