@@ -28,7 +28,8 @@
         "RDNTUSDT",
         "SIRENUSDT",
         "TACUSDT",
-        "UAIUSDT"
+        "UAIUSDT",
+        "VELVETUSDT"
     ],
     "short_ban_list": [
         "BSBUSDT",
