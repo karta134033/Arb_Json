@@ -1,5 +1,5 @@
 {
   "long_ban_list": [],
   "short_ban_list": ["BULLAUSDT"],
-  "ban_list": ["KOMAUSDT", "LABUSDT"]
+  "ban_list": ["KOMAUSDT", "LABUSDT", "VICUSDT"]
 }
