@@ -1,6 +1,9 @@
 {
   "long_ban_list": [],
-  "short_ban_list": ["BULLAUSDT"],
+  "short_ban_list": [
+    "BULLAUSDT", 
+    "APRUSDT"
+  ],
   "ban_list": [
     "BLUAIUSDT",
     "BRUSDT",
