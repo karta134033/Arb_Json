@@ -1,5 +1,7 @@
 {
-  "long_ban_list": [],
+  "long_ban_list": [
+    "CYSUSDT"
+  ],
   "short_ban_list": [
     "BULLAUSDT", 
     "APRUSDT"
