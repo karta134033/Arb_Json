@@ -3,10 +3,10 @@
     "CYSUSDT"
   ],
   "short_ban_list": [
-    "BULLAUSDT", 
-    "APRUSDT"
+    "BULLAUSDT"
   ],
   "ban_list": [
+    "APRUSDT",
     "BLUAIUSDT",
     "BRUSDT",
     "BSBUSDT",
