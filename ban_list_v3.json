@@ -1,6 +1,7 @@
 {
   "long_ban_list": [
-    "CYSUSDT"
+    "CYSUSDT",
+    "VELVETUSDT"
   ],
   "short_ban_list": [
     "BULLAUSDT"
@@ -13,6 +14,7 @@
     "KOMAUSDT",
     "LABUSDT",
     "ONEUSDT",
+    "USUSDT",
     "VICUSDT"
   ]
 }
