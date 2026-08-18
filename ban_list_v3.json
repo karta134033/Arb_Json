@@ -2,6 +2,7 @@
   "long_ban_list": [
     "CYSUSDT",
     "HEMIUSDT",
+    "STARUSDT",
     "VELVETUSDT"
   ],
   "short_ban_list": [
