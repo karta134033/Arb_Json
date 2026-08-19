@@ -1,6 +1,8 @@
 {
   "long_ban_list": [
+    "AIOUSDT",
     "CYSUSDT",
+    "GPSUSDT",
     "HEMIUSDT",
     "STARUSDT",
     "VELVETUSDT"
