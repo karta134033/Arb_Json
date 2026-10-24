@@ -26,6 +26,7 @@
     "MUBARAKUSDT",
     "NOMUSDT",
     "OPNUSDT",
+    "ORDERUSDT",
     "PLAYUSDT",
     "PLAYSOUTUSDT",
     "RIVERUSDT",
@@ -35,7 +36,8 @@
     "SLXUSDT",
     "STARUSDT",
     "TRIAUSDT",
-    "UAIUSDT"
+    "UAIUSDT",
+    "WETUSDT"
   ],
   "short_ban_list": [
     "BULLAUSDT"
