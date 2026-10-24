@@ -24,6 +24,7 @@
         "MUSDT",
         "NOMUSDT",
         "OPNUSDT",
+        "ORDERUSDT",
         "PLAYUSDT",
         "PLAYSOUTUSDT",
         "RIVERUSDT",
@@ -34,7 +35,8 @@
         "SLXUSDT",
         "TRIAUSDT",
         "UAIUSDT",
-        "VELVETUSDT"
+        "VELVETUSDT",
+        "WETUSDT"
     ],
     "short_ban_list": [
         "APRUSDT",
