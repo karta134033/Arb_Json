@@ -42,7 +42,8 @@
     "WETUSDT"
   ],
   "short_ban_list": [
-    "BULLAUSDT"
+    "BULLAUSDT",
+    "RLCUSDT"
   ],
   "ban_list": [
     "4USDT",
