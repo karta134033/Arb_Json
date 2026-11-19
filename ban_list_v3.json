@@ -43,6 +43,7 @@
   ],
   "short_ban_list": [
     "BULLAUSDT",
+    "MMTUSDT",
     "RLCUSDT"
   ],
   "ban_list": [
@@ -74,7 +75,6 @@
     "LABUSDT",
     "MAGMAUSDT",
     "MEMEUSDT",
-    "MMTUSDT",
     "OLUSDT",
     "ONUSDT",
     "ONTUSDT",
